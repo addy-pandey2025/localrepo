@@ -1,2 +1,2 @@
 # This is my Local Repo
-# Tis is my first selfmade repository
+# This is my first selfmade repository
